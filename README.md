@@ -1,6 +1,6 @@
 # Election_Analysis
 
-## Overview of the Election Audid
+## Overview of the Election Audit
 A Colorado Board of Elections employee gave me the following tasks to complete the election audit of a recent local congressional election
 
 1. To calculate the total number of votes cast.
@@ -18,9 +18,9 @@ The analysis of this election audit show that:
 - There were 369,711 vote cast in the election
 
 - The Counties results were:
-  -Jefferson recieved "10.5%" of the votes and "35.855" number ofvotes.
-  -Denver recieved "82.8%" of the votes and "306.055" number f votes.
-  -Arapahoe recieved "6.7%" of the votes and "24.801" number of votes.
+  - Jefferson recieved "10.5%" of the votes and "35.855" number ofvotes.
+  - Denver recieved "82.8%" of the votes and "306.055" number f votes.
+  - Arapahoe recieved "6.7%" of the votes and "24.801" number of votes.
  
 - The county with the largrst turnout of the election:
   - Denver who recieved "82.8%" of the vote and "306.055" bumber of vote was the county with the largest turnout of the election
