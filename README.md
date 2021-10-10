@@ -39,7 +39,7 @@ The analysis of this election audit show that:
   - Dianna Degette who recieved "73.8%" of the vote and "272,892" number of votes
 
 ## Challenge Overview
-The overview of this challenge is for us to understand how to use programing tichniques to solve real world events like with did in this State of Colorado congressional election. Without the programing languages and techniques, it would have been much difficult to read throug the csv files to know the actual votes each candidate had, the voter turnout for each county, the percentage of votes from each county out of the total count as well as the county with the highest turnout. With succesfully completing this challenge, the board of election were able to see the txt printed result of the election!
+The overview of this challenge is for us to understand how to use programing tichniques to solve real world events like with did in this State of Colorado congressional election. Without the programing languages and techniques, it would have been much difficult to read throug the csv files to know the actual votes each candidate had, the voter turnout for each county, the percentage of votes from each county out of the total count as well as the county with the highest turnout. With succesfully completing this challenge, the board of election were able to see the txt printed result of the election (image attached)
 
 [Election_Results_txt](https://user-images.githubusercontent.com/34757498/136705315-3dadeace-59d1-4ec7-b5b8-3e9eea88a480.png)
 
